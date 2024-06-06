@@ -26,3 +26,4 @@ In deze handleiding wordt uitgelegd hoe je een nieuw GitHub Project en een Wiki 
  - Gebruik de Markdown-editor om je wiki-pagina te schrijven.
  - Geef je pagina een titel en sla deze op.
  - Je kunt meerdere pagina's maken en links tussen pagina's toevoegen voor betere navigatie.
+ 
